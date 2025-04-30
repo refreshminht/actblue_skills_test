@@ -3,6 +3,7 @@
 In my analysis, I decided to use python to merge ActBlue's FEC filings and FEC committee data from the 2020 cycle datasets. This helped me create clear graphs looking into the top 10 democratic congressional committees that received the most out of state donations and the top 10 careers of donors who donate out of state the most. 
 
 **Exploring Data and Integrity Checks:**
+
 The integrity checks I use before analyzing a new dataset are:
 1. Exploring the dataset by printing it out to get familiar with the meanings of each column
 2. Look at the data types of the columns
@@ -12,9 +13,11 @@ The integrity checks I use before analyzing a new dataset are:
 6. In order to merge the two datasets, I must extract the committee id from the memo_text_description from fec_filing and join on that
 
 **Merging the datasets:**
+
 I merged the FEC filings dataset and the FEC committee data by first removing the committee ID from the memo_text_description column from the FEC filing data. This allowed me to complete a join on cmte_id on the two datasets. 
 
 **Analysis and Questions**
+
 I created two graphs that show: 
 1.   The top 10 congressional committees with the most out-of-state contributions between February and April 2020.
 2.   The top 10 donor occupations contributing the most out-of-state donations to these committees.
