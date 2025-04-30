@@ -28,4 +28,4 @@ The second graph shows that individuals who donate to out-of-state Democratic co
 
 **Questions and Future Research:** 
 
-I would be interested in doing a deeper analysis and comparing the top 10 careers donating to Democratic congressional committees vs those contributing to Republican congressional committees. This data is limited to contributions filed through ActBlue, so we would not be able to explore this partisan difference in donor career profiles with this data alone. I'm also interested in looking into how out 
+I would be interested in doing a deeper analysis and comparing the top 10 careers donating to Democratic congressional committees vs those contributing to Republican congressional committees. This data is limited to contributions filed through ActBlue, so we would not be able to explore this partisan difference in donor career profiles with this data alone. I'm also interested in looking into how out out-of-state contributions to Democratic congressional candidates evolve over a longer timeframe beyond February to April 2020, to better understand whether these patterns hold consistently across election cycles.
