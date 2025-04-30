@@ -16,7 +16,7 @@ The integrity checks I use before analyzing a new dataset are:
 
 I merged the FEC filings dataset and the FEC committee data by first removing the committee ID from the memo_text_description column from the FEC filing data. This allowed me to complete a join on cmte_id on the two datasets. 
 
-**Analysis and Questions**
+**Analysis:**
 
 I created two graphs that show: 
 1.   The top 10 congressional committees with the most out-of-state contributions between February and April 2020.
@@ -27,4 +27,5 @@ The first graph shows  that the committees receiving the most out-of-state contr
 The second graph shows that individuals who donate to out-of-state Democratic congressional committees are primarily employed in white-collar professions that typically require higher education—such as executives, lawyers, and physicians. This suggests that higher-income, highly educated individuals are more likely to donate across state lines to Democratic candidates. While the top occupations donating out-of-state may closely resemble occupations contributing to Democrats overall, the data shows the national engagement of donors in these careers.
 
 **Questions and Future Research:** 
+
 I would be interested in doing a deeper analysis and comparing the top 10 careers donating to Democratic congressional committees vs those contributing to Republican congressional committees. This data is limited to contributions filed through ActBlue, so we would not be able to explore this partisan difference in donor career profiles with this data alone. I'm also interested in looking into how out 
