@@ -5,7 +5,7 @@ This folder contains my submission to the ActBlue Data Analyst skills test.
 In the Exercise1.sql file, I refactor the SQL query given to make it easy to read by teammates and fix the syntax errors. 
 
 ## Exercise Two: Storytelling with Data
-In the Exercise2.ipynb file I draw insights into the ActBlue's FEC filings and FEC committee datasets from the 2020 cycle.
+In the Exercise2.ipynb file, I draw insights into the ActBlue's FEC filings and FEC committee datasets from the 2020 cycle.
 
 In my analysis, I decided to use python to explore ActBlue's FEC filings and FEC committee data from the 2020 cycle datasets. This helped me create clear graphs looking into the top 10 democratic congressional committees that received the most out of state donations and the top 10 careers of donors who donate out of state the most. 
 
